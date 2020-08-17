@@ -8,7 +8,7 @@
 
 module.exports = {
   // puppet_padplus Token
-  token: "puppet_padplu_你申请的token",
+  token: "puppet_padplu_你申请的toke",
   // 机器人名字
   name: "圈子",
   // 房间/群聊
